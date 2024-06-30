@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="OnlyGyms" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+           <code>Find local gyms in your area!</code>
         </p>
       </main>
 
